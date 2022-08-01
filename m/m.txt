@@ -15,7 +15,7 @@
 {"key": "csp_LiteApple"  ,"name":"苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://shuyuan.miaogongzi.net/shuyuan/1659036297.txt"},
 {"key": "csp_IKan"       ,"name":"爱看影视","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable":1,"jar": "http://home.jundie.top:81/jar/top93.jar"},
 {"key": "csp_kuaikan"    ,"name":"快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable":1},
-{"key": "Nfyun"          ,"name":"🐞Nf云","type": 3,"api": "csp_Nfyun","searchable": 1,"quickSearch": 1,"filterable":1,"jar":"https://gitea.com/mt123456888/tv/raw/branch/master/m/custom_spider.jar"},
+{"key": "Nfyun"          ,"name":"🐞Nf云","type": 3,"api": "csp_Nfyun","searchable": 1,"quickSearch": 1,"filterable":1,"jar":"https://gitea.com/gaigai/gougou/raw/branch/main/custom_spider.jar"},
 {"key": "csp_Lib"        ,"name":"Libvio","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/mt123456888/tv/raw/branch/master/m/custom_spider.jar"},
 {"key":"csp_ZJMiao"      ,"name":"追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Zxzj"       ,"name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1}, 
