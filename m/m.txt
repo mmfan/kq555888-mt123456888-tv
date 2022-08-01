@@ -1,5 +1,5 @@
 {"spider":"https://gitea.com/gaigai/gougou/raw/branch/main/top94.jar;md5;b9b69f9439a1b53f8cfa6a26ed714f6f",
-//{"spider":"https://gitea.com/Pandora2277/TV/raw/branch/main/custom_spider.jar",
+//{"spider":"https://gitea.com/mt123456888/tv/raw/branch/master/m/custom_spider.jar",
 //{"spider":"https://shuyuan.miaogongzi.net/shuyuan/1659036297.txt",
 //{"spider":"http://home.jundie.top:81/jar/top93.jar",
 "sites": [
