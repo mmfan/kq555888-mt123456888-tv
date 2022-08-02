@@ -38,7 +38,7 @@
 
 {"key": "csp_xpath_bdys" ,"name":"哔嘀磁链"  ,"type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,
 "filterable":1,"ext":"https://gitea.com/gaigai/gougou/raw/branch/main/biditd.json"},
-{"key": "csp_Auete"      ,"name":"Auete"     ,"type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable":1},
+//{"key": "csp_Auete"      ,"name":"Auete"     ,"type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key": "csp_xpath_jbb"  ,"name":"剧白白(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
 "filterable":1,"ext":"http://home.jundie.top:81/Cat/MaooXP/jubaibai.json"},
 
@@ -50,10 +50,9 @@
 "ext": "https://gitea.com/gaigai/gougou/raw/branch/main/555.json"},
 //采集
 {"key":"csp_appysv2_万能影视","name":"万能影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.wnvod.net/lvdou_api.php/v1.vod"},
-{"key":"csp_appysv2_爱电影","name":"爱电影(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.idianying.com.cn/mogai_api.php/v1.vod"},
 {"key":"csp_appysv2_米来影视","name":"米来影视(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://42.51.37.161:2346/api.php/iptv/vod/"},
 {"key":"csp_appysv2_盒子视界","name":"盒子视界(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://eh.tvzy.cc/api.php/iptv/vod/"},
-{"key":"csp_appysv2_芒迅TV","name":"芒迅TV(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.hdyangtv.com/api.php/iptv/vod/"},
+//{"key":"csp_appysv2_芒迅TV","name":"芒迅TV(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.hdyangtv.com/api.php/iptv/vod/"},
 {"key": "csp_Blidw"      ,"name":"动物世界","type": 3,"api": "csp_Blidw","searchable": 1,"quickSearch":0,"filterable":1},
 {"key": "csp_xpath"      ,"name":"足球篮球","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch":0,
 "filterable": 1,"ext": "http://home.jundie.top:81/TVBox/MaooXB/qiumi.json"},
