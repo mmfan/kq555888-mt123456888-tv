@@ -51,7 +51,7 @@
 "ext":"http://home.jundie.top:81/Cat/MaooXP/dmw.json"},
 {"key":"csp_xpath_nicotv","name":"妮可动漫(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitea.com/gaigai/gougou/raw/branch/main/nicotv.json"},
-//{"key": "csp_xpath_dm84" ,"name":"动漫巴士(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,
+{"key": "csp_xpath_dm84" ,"name":"动漫巴士(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"http://home.jundie.top:81/Cat/MaooXP/dm84.json"},
 {"key": "csp_xpath_17skr","name":"路漫漫动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"http://home.jundie.top:81/Cat/MaooXP/17skr.json"},
