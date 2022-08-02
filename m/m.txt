@@ -18,6 +18,7 @@
 {"key": "Nfyun"          ,"name":"🐞Nf云","type": 3,"api": "csp_Nfyun","searchable": 1,"quickSearch": 1,"filterable":1,"jar":""},
 {"key": "csp_Lib"        ,"name":"Libvio","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/mt123456888/tv/raw/branch/master/m/custom_spider.jar"},
 {"key":"csp_ZJMiao"      ,"name":"追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "追剧喵","name": "🐱追剧喵(SP)","type": 3,"api": "csp_ZJMiao","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitea.com/wangxilin/1/raw/branch/main/qj.jar"},
 {"key": "csp_Zxzj"       ,"name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key": "csp_Cokemv"     ,"name":"Cok影视" ,"type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Bttoo"      ,"name":"2BT影视" ,"type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch":1,"filterable":1},
@@ -28,6 +29,7 @@
 {"key": "csp_QQ"         ,"name":"腾讯(解析)","type":3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitea.com/gaigai/gougou/raw/branch/main/6.jar"},
 {"key": "csp_MGTV"       ,"name":"芒果(解析)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":0,"filterable":1},
 {"key": "csp_IQIYI"      ,"name":"奇艺(解析)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":0,"filterable":1},
+{"key":"空中课堂","name":"🐞空中课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/ltxxjs/box2022-1/main/sub/bibi/空中课堂.json"},
 {"key": "csp_BBB"        ,"name":"哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1},
 {"key": "csp_Bliyc"      ,"name":"歌手音乐","type": 3,"api": "csp_Bliyc","searchable": 1,"quickSearch":0,"filterable":1},
 {"key": "csp_Blixq"      ,"name":"戏曲多多","type": 3,"api": "csp_Blixq","searchable": 1,"quickSearch":0,"filterable":1},
@@ -60,6 +62,14 @@
 "ext":"http://home.jundie.top:81/Cat/MaooXB/大米星球.json"},
 {"key": "csp_biubiu_55","name": "555电影(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,
 "ext": "https://gitea.com/gaigai/gougou/raw/branch/main/555.json"},
+//采集
+{"key":"csp_appysv2_万能影视","name":"万能影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.wnvod.net/lvdou_api.php/v1.vod"},
+{"key":"csp_appysv2_蒲公英视频","name":"蒲公英视频(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.pgy1.top/ruifenglb_api.php/v1.vod"},
+{"key":"csp_appysv2_快看影视","name":"快看影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://kuaikys.com/mogai_api.php/v1.vod"},
+{"key":"csp_appysv2_爱电影","name":"爱电影(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.idianying.com.cn/mogai_api.php/v1.vod"},
+{"key":"csp_appysv2_米来影视","name":"米来影视(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://42.51.37.161:2346/api.php/iptv/vod/"},
+{"key":"csp_appysv2_盒子视界","name":"盒子视界(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://eh.tvzy.cc/api.php/iptv/vod/"},
+{"key":"csp_appysv2_芒迅TV","name":"芒迅TV(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.hdyangtv.com/api.php/iptv/vod/"},
 //{"key": "91md"          ,"name": "91","type": 1,"api": "https://91md.me/api.php/provide/vod/from/mdm3u8/","tag": "qb,tj,rm","categories": []},
 //{"key":"csp_CZSPP","name":"🚬厂长影视(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Mjxq"        ,"name":"🥇美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
@@ -87,6 +97,7 @@
 "ext":{"flag":["renrenmi","qq","腾讯","youku","优酷","mgtv","芒果","xigua","西瓜"]}},
 
 {"name":"解析4","type":1,"url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
+{"name":"LTRX","type":1,"url":"https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url=","ext":{"flag":["rx"]}},
 
 {"name":"解析5","type":1,"url":"https://h2003.fun:443/za1/?url=",
 "ext":{"flag":["renrenmi","qq","腾讯","youku","优酷","mgtv","芒果","xigua","西瓜"]}}
