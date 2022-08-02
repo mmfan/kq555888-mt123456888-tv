@@ -46,7 +46,7 @@
 {"key": "csp_Auete"      ,"name":"Auete"     ,"type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key": "csp_xpath_jbb"  ,"name":"剧白白(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
 "filterable":1,"ext":"http://home.jundie.top:81/Cat/MaooXP/jubaibai.json"},
-//{"key": "csp_xpath_dmw"  ,"name":"动漫岛(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
+{"key": "csp_xpath_dmw"  ,"name":"动漫岛(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"http://home.jundie.top:81/Cat/MaooXP/dmw.json"},
 //{"key":"csp_xpath_nicotv","name":"妮可动漫(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitea.com/gaigai/gougou/raw/branch/main/nicotv.json"},
