@@ -89,9 +89,9 @@
 
 { "name": "解析1", "type": 1, "url": "http://27.124.4.42:4567/?url=" },
 
-{"name": "解析2","type": 0,"url": "https://nbjx.vip/?url="},
+
 {"name": "解析3","type": 0,"url": "https://www.nxflv.com/?url="},
-{"name": "解析4","type": 0,"url": "https://svip.bljiex.cc/?url="},
+
 {"name": "解析5","type": 0,"url": "https://bd.jx.cn/?url="},
 
 {"name":"解析6","type":1,"url":"http://103.40.240.46/jh/?url=",
