@@ -11,15 +11,23 @@
 {"key":"csp_DiDuan"        ,"name":"🐞低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "csp_GitCafe"    ,"name":"阿里小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "csp_CZSPP"      ,"name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_Tkys"        ,"name":"天空影视","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Kmys"       ,"name":"酷猫影视","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key": "csp_LiteApple"  ,"name":"苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://shuyuan.miaogongzi.net/shuyuan/1659036297.txt"},
 {"key": "csp_IKan"       ,"name":"爱看影视","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable":1,"jar": "http://home.jundie.top:81/jar/top93.jar"},
 {"key": "csp_kuaikan"    ,"name":"快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable":1},
-//{"key": "Nfyun"          ,"name":"🐞Nf云","type": 3,"api": "csp_Nfyun","searchable": 1,"quickSearch": 1,"filterable":1,"jar":""},
 {"key": "csp_Lib"        ,"name":"Libvio","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/mt123456888/tv/raw/branch/master/m/custom_spider.jar"},
 //{"key":"csp_ZJMiao"      ,"name":"追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "追剧喵","name": "🐱追剧喵(SP)","type": 3,"api": "csp_ZJMiao","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitea.com/wangxilin/1/raw/branch/main/qj.jar"},
+    {
+      "key": "555电影",
+      "name": "555电影(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gitea.com/maoys/Box/raw/branch/master/MaooXB/555dy.json"
+    },
 {"key": "csp_Zxzj"       ,"name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key": "csp_Cokemv"     ,"name":"Cok影视" ,"type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Bttoo"      ,"name":"2BT影视" ,"type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch":1,"filterable":1},
@@ -31,14 +39,9 @@
 {"key": "csp_MGTV"       ,"name":"芒果(解析)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":0,"filterable":1},
 {"key": "csp_IQIYI"      ,"name":"奇艺(解析)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"空中课堂","name":"🐞空中课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/ltxxjs/box2022-1/main/sub/bibi/空中课堂.json"},
-//{"key": "csp_BBB"        ,"name":"哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1},
-//{"key": "csp_Bliyc"      ,"name":"歌手音乐","type": 3,"api": "csp_Bliyc","searchable": 1,"quickSearch":0,"filterable":1},
-//{"key": "csp_Blixq"      ,"name":"戏曲多多","type": 3,"api": "csp_Blixq","searchable": 1,"quickSearch":0,"filterable":1},
-//{"key": "csp_Blixs"      ,"name":"相声小品","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch":0,"filterable":1},
 
 {"key": "csp_xpath_bdys" ,"name":"哔嘀磁链"  ,"type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,
 "filterable":1,"ext":"https://gitea.com/gaigai/gougou/raw/branch/main/biditd.json"},
-//{"key": "csp_Auete"      ,"name":"Auete"     ,"type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key": "csp_xpath_jbb"  ,"name":"剧白白(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
 "filterable":1,"ext":"http://home.jundie.top:81/Cat/MaooXP/jubaibai.json"},
 
@@ -46,30 +49,14 @@
 "ext":"http://home.jundie.top:81/Cat/MaooXB/影视工厂.json"},
 {"key": "csp_biubiu_dm"   ,"name":"大米星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"http://home.jundie.top:81/Cat/MaooXB/大米星球.json"},
-{"key": "csp_biubiu_55","name": "555电影(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,
-"ext": "https://gitea.com/gaigai/gougou/raw/branch/main/555.json"},
+ 
 //采集
 {"key":"csp_appysv2_万能影视","name":"万能影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.wnvod.net/lvdou_api.php/v1.vod"},
 {"key":"csp_appysv2_米来影视","name":"米来影视(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://42.51.37.161:2346/api.php/iptv/vod/"},
 {"key":"csp_appysv2_盒子视界","name":"盒子视界(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://eh.tvzy.cc/api.php/iptv/vod/"},
-//{"key":"csp_appysv2_芒迅TV","name":"芒迅TV(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.hdyangtv.com/api.php/iptv/vod/"},
 {"key": "csp_Blidw"      ,"name":"动物世界","type": 3,"api": "csp_Blidw","searchable": 1,"quickSearch":0,"filterable":1},
 {"key": "csp_xpath"      ,"name":"足球篮球","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch":0,
 "filterable": 1,"ext": "http://home.jundie.top:81/TVBox/MaooXB/qiumi.json"},
-{"key": "csp_xpath_huya" ,"name":"🐯虎牙直播","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
-"filterable":1,"ext":"https://gitea.com/gaigai/gougou/raw/branch/main/huya2.json"},
-{"key": "csp_biu_dy"     ,"name":"🐟斗鱼直播","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,
-"filterable":0,"ext":"http://home.jundie.top:81/TVBox/MaooXB/douyu.json"},
-{"key": "csp_xpath_dmw"  ,"name":"动漫岛(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"http://home.jundie.top:81/Cat/MaooXP/dmw.json"},
-{"key":"csp_xpath_nicotv","name":"妮可动漫(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://gitea.com/gaigai/gougou/raw/branch/main/nicotv.json"},
-{"key": "csp_xpath_dm84" ,"name":"动漫巴士(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"http://home.jundie.top:81/Cat/MaooXP/dm84.json"},
-{"key": "csp_xpath_17skr","name":"路漫漫动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"http://home.jundie.top:81/Cat/MaooXP/17skr.json"},
-{"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,
-"ext":"http://home.jundie.top:81/Cat/MaooXP/kuqimv.json"},
 //{"key": "91md"          ,"name": "91","type": 1,"api": "https://91md.me/api.php/provide/vod/from/mdm3u8/","tag": "qb,tj,rm","categories": []},
 //{"key":"csp_CZSPP","name":"🚬厂长影视(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Mjxq"        ,"name":"🥇美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
@@ -98,6 +85,83 @@
 
 {"name":"解析6","type":1,"url":"http://103.40.240.46/jh/?url=",
 "ext":{"flag":["renrenmi","qq","腾讯","youku","优酷","mgtv","芒果","xigua","西瓜"]}},
+{
+      "name": "秒播",
+      "type": 1,
+      "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
+      "ext": {
+        "flag": [
+          "qiyi",
+          "qq",
+          "letv",
+          "sohu",
+          "youku",
+          "mgtv",
+          "bilibili",
+          "wasu",
+          "xigua",
+          "1905"
+        ]
+      }
+    },
+    {
+      "name": "王牌",
+      "type": 1,
+      "url": "https://za.kuanjv.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "搜狐",
+          "sohu",
+          "letv",
+          "乐视",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
+          "xigua",
+          "西瓜"
+        ]
+      }
+    },
+{
+      "name": "fuqi",
+      "type": 1,
+      "url": "https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="
+    },
+{
+      "name": "未知",
+      "type": 1,
+      "url": "http://106.52.218.221:88/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ]
+      }
+    },
 
 {"name":"leduo","type":1,"url":"https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid=","ext":{"flag":["leduo"]}},
 
