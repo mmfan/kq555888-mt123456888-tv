@@ -128,15 +128,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_Auete",
-      "name": "🐞Auete",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "293视频",
       "name": "🐞293视频",
       "type": 3,
