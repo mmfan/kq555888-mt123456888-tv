@@ -184,6 +184,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
     {
       "key": "Gitcafe",
       "name": "小纸条",
