@@ -392,24 +392,6 @@
       }
     },
     {
-      "name": "我爱电影网",
-      "type": 1,
-      "url": "https://jhpc.manduhu.com/j1217.php?url=",
-      "ext": {
-        "flag": [
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "mgtv",
-          "芒果",
-          "youku",
-          "优酷",
-          "pptv",
-          "PPTV"
-        ]
-      }
-    },
-    {
       "name": "王牌",
       "type": 1,
       "url": "https://za.kuanjv.com/?url=",
