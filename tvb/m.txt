@@ -184,7 +184,7 @@
       "filterable": 1,
       "ext": "https://gitea.com/maoys/Box/raw/branch/master/MaooXP/jubaibai.json"
     },
-    //{
+    {
       "key": "csp_xpath_saohuotv",
       "name": "骚火电影(XPF)",
       "type": 3,
@@ -203,7 +203,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    //{
+    {
       "key": "csp_biubiu_追剧喵",
       "name": "追剧喵(XB)",
       "type": 3,
@@ -213,7 +213,6 @@
       "filterable": 0,
       "ext": "https://gitea.com/maoys/Box/raw/branch/master/MaooXB/zjm.json"
     },
-    
     {
       "key": "Gitcafe",
       "name": "小纸条",
@@ -221,7 +220,7 @@
       "api": "csp_GitCafe",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "AliPS",
