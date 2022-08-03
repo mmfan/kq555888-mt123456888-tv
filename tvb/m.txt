@@ -184,7 +184,7 @@
       "filterable": 1,
       "ext": "https://gitea.com/maoys/Box/raw/branch/master/MaooXP/jubaibai.json"
     },
-    //{
+    {
       "key": "csp_xpath_saohuotv",
       "name": "骚火电影(XPF)",
       "type": 3,
