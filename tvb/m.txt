@@ -63,7 +63,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {"key": "csp_IKan"       ,"name":"爱看影视","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable":1,"jar": "http://home.jundie.top:81/jar/top93.jar"},
     {
       "key": "Smdyy_spider",
       "name": "🐞神马影视",
