@@ -184,6 +184,8 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {"key": "csp_xpath_bdys" ,"name":"哔嘀磁链"  ,"type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,
+"filterable":1,"ext":"https://gitea.com/gaigai/gougou/raw/branch/main/biditd.json"},
     {"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
     {
       "key": "AliPS",
