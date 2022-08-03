@@ -81,16 +81,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    //{
-      "key": "Bili",
-      "name": "B站",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitea.com/maoys/Box/raw/branch/master/sub/Bili.json"
-    },
     {
       "key": "KanSJ_spider",
       "name": "🐞看视界",
