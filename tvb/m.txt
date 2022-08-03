@@ -1032,5 +1032,6 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider": "https://gitea.com/maoys/TV/raw/branch/main/qj.jar;md5;7eacb357cf27abce92ed497367221e5a"
+  "spider": "https://gitea.com/maoys/TV/raw/branch/main/qj.jar;md5;7eacb357cf27abce92ed497367221e5a",
+  //{"spider":"http://home.jundie.top:81/jar/top93.jar"
 }
