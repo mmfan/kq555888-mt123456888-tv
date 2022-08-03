@@ -191,7 +191,7 @@
       "api": "csp_GitCafe",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "AliPS",
