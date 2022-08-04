@@ -27,7 +27,6 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {"key":"csp_Ddrk","name":"🤿低端影视2(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "追剧喵",
       "name": "🐞追剧喵",
@@ -414,7 +413,7 @@
   ],
   "flags": [
     "youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","renrenmi","duoduozy",
-"bilibili","RongXingVR","RongXing","LT","wuduyun","xfy","muxm3u8","canglan","le","m1905","优酷","爱奇艺","腾讯","腾讯视频","乐视视频","乐视","土豆","芒果","芒果TV","芒果tv","哔哩哔哩",
+"bilibili","RongXingVR","RongXing","LT","ltnb","wuduyun","wuduzy","xfy","muxm3u8","canglan","le","m1905","优酷","爱奇艺","腾讯","腾讯视频","乐视视频","乐视","土豆","芒果","芒果TV","芒果tv","哔哩哔哩",
 "哔哩","zy1080","4k蓝光","内部蓝光" ],
   "ijk": [
     {
