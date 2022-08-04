@@ -27,6 +27,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
+    {"key":"csp_Ddrk","name":"🤿低端影视2(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "追剧喵",
       "name": "🐞追剧喵",
@@ -128,15 +129,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_Auete",
-      "name": "🐞Auete",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "293视频",
       "name": "🐞293视频",
       "type": 3,
@@ -175,11 +167,11 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {"key":"csp_Tkys","name":"🐞天空影视(SP)","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "csp_xpath_bdys" ,"name":"哔嘀磁链"  ,"type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,
 "filterable":1,"ext":"https://gitea.com/gaigai/gougou/raw/branch/main/biditd.json"},
     {"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
     {"key": "csp_Bttoo"      ,"name":"2BT影视" ,"type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch":1,"filterable":1},
-    {"key": "csp_kaola"      ,"name":"考拉直链","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
     {"key": "csp_SP360"      ,"name":"360(解析)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar": ""},
     {"key": "csp_QQ"         ,"name":"腾讯(解析)","type":3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitea.com/gaigai/gougou/raw/branch/main/6.jar"},
 {"key": "csp_MGTV"       ,"name":"芒果(解析)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":0,"filterable":1},
@@ -192,9 +184,6 @@
 {"key":"csp_appysv2_苍蓝影视","name":"苍蓝影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vip.ruifenglb.com:4433/api.php/app/"},
 {"key":"csp_appysv2_米来影视","name":"米来影视(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://42.51.37.161:2346/api.php/iptv/vod/"},
 {"key":"csp_appysv2_盒子视界","name":"盒子视界(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://eh.tvzy.cc/api.php/iptv/vod/"},
-{"key": "csp_Blidw"      ,"name":"动物世界","type": 3,"api": "csp_Blidw","searchable": 1,"quickSearch":0,"filterable":1},
-{"key": "csp_xpath"      ,"name":"足球篮球","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch":0,
-"filterable": 1,"ext": "http://home.jundie.top:81/TVBox/MaooXB/qiumi.json"},
     {
       "key": "AliPS",
       "name": "盘搜",
@@ -345,6 +334,7 @@
 
 {"name":"解析8","type":1,"url":"https://h2003.fun:443/za1/?url=",
 "ext":{"flag":["renrenmi","qq","腾讯","youku","优酷","mgtv","芒果","xigua","西瓜"]}},
+{"name":"普通","type":0,"url":"https://jhpc.021huaying.com/api.php?url="},
 {"name": "解析3","type": 0,"url": "https://www.nxflv.com/?url="},
 
 {"name": "解析5","type": 0,"url": "https://bd.jx.cn/?url="},
