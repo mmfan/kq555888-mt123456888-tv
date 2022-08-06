@@ -109,8 +109,6 @@
       "filterable": 1
     },
     {"key":"spider_IKan","name": "❤️爱看","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key": "Nfyun","name": "🚀Nf云","type": 3,"api": "csp_Nfyun","searchable": 1,"quickSearch": 1,"filterable": 1},
-     {      "key": "csp_Nfyun","name": "✈奈菲(SP)","type": 3,"api": "csp_Nfyun","searchable": 1,"quickSearch": 1,"filterable": 1},
     {
       "key": "csp_hbys",
       "name": "🐞简影",
@@ -148,16 +146,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://gitea.com/maoys/Box/raw/branch/master/MaooXB/555dy.json"
-    },
-    {
-      "key": "鸭奈飞",
-      "name": "鸭奈飞(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gitea.com/mt123456888/Aliange/raw/branch/main/TV/MaooXB/%E9%B8%AD%E5%A5%88%E9%A3%9E1.json"
     },
     {
       "key": "剧白白",
