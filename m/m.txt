@@ -150,6 +150,16 @@
       "ext": "https://gitea.com/maoys/Box/raw/branch/master/MaooXB/555dy.json"
     },
     {
+      "key": "鸭奈飞",
+      "name": "鸭奈飞(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gitea.com/mt123456888/Aliange/raw/branch/main/TV/MaooXB/%E9%B8%AD%E5%A5%88%E9%A3%9E.json"
+    },
+    {
       "key": "剧白白",
       "name": "剧白白(XPF)",
       "type": 3,
