@@ -157,7 +157,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/mt123456888/Aliange/raw/branch/main/TV/MaooXB/%E9%B8%AD%E5%A5%88%E9%A3%9E.json"
+      "ext": "https://gitea.com/mt123456888/Aliange/raw/branch/main/TV/MaooXB/%E9%B8%AD%E5%A5%88%E9%A3%9E1.json"
     },
     {
       "key": "剧白白",
