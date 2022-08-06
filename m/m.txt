@@ -110,6 +110,7 @@
     },
     {"key":"spider_IKan","name": "❤️爱看","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "Nfyun","name": "🚀Nf云","type": 3,"api": "csp_Nfyun","searchable": 1,"quickSearch": 1,"filterable": 1},
+     {      "key": "csp_Nfyun","name": "✈奈菲(SP)","type": 3,"api": "csp_Nfyun","searchable": 1,"quickSearch": 1,"filterable": 1},
     {
       "key": "csp_hbys",
       "name": "🐞简影",
