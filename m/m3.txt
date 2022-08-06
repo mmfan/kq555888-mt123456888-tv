@@ -631,5 +631,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider": "https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC0805.jar;md5;B2CCC22142714422B8C7953448BA6C4E"
+  "spider": "https://gitea.com/mt123456888/tv/raw/branch/master/tvbox/XC0805.jar;md5;B2CCC22142714422B8C7953448BA6C4E"
 }
