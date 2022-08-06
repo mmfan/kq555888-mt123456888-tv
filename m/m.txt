@@ -136,7 +136,8 @@
       "api": "csp_SP293",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1,
+      "jar":"https://raw.fastgit.org/liu673cn/box/main/sub/ext/sp081.txt"
     },
     {
       "key": "555电影",
