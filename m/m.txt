@@ -128,15 +128,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "293视频",
-      "name": "🐞293视频",
-      "type": 3,
-      "api": "csp_SP293",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    {"key":"293视频","name":"🐓293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://gitea.com/jiang2022j/jmu/raw/branch/main/qj293.jar;MD5;2FA165C9AA72ADA6AB74A3DEDB58FF6B"},
     {
       "key": "555电影",
       "name": "555电影(XB)",
