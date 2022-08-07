@@ -209,7 +209,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9oZW5yeXFpbnVwLmdpdGh1Yi5pby9KSy9NeURJWS9saXZlLnR4dA=="
+            "proxy://do=live&type=txt&ext=https://gitea.com/Pandora2277/Box/raw/branch/master/sub/Live.txt"
           ]
         }
       ]
