@@ -209,7 +209,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=HR0cHM6Ly9naXRlYS5jb20vcWlhb2ppL2phci9yYXcvYnJhbmNoL21haW4vemIudHh0"
+            "https://gitea.com/mt123456888/tv/raw/branch/master/tvbox/live.txt"
           ]
         }
       ]
