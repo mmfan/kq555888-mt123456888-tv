@@ -209,7 +209,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=https://gitea.com/Pandora2277/Box/raw/branch/master/sub/Live.txt"
+            "proxy://do=live&type=txt&ext=https://gitea.com/mt123456888/tv/raw/branch/master/tvbox/live.txt"
           ]
         }
       ]
