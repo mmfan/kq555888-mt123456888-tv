@@ -130,6 +130,16 @@
     },
     {"key":"293视频","name":"🐓293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://gitea.com/mt123456888/tv/raw/branch/master/m/qj293.jar"},
     {
+		"key":"Nfyun",
+		"name":"☁奈菲云",
+		"type":3,
+		"api":"csp_Nfyun",
+		"searchable":1,
+		"quickSearch":1,
+		"filterable":1,
+		"jar":"https://gitea.com/Hzh-494/Hzh494/raw/branch/main/ayt.jar"
+	},
+    {
       "key": "555电影",
       "name": "555电影(XB)",
       "type": 3,
