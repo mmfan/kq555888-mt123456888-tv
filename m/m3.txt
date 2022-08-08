@@ -129,7 +129,7 @@
       "filterable": 1
     },
     {"key": "Nfyun","name": "🚀Nf云","type": 3,"api": "csp_Nfyun","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"","jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/XC0808.jar;md5;B2CCC22142714422B8C7953448BA6C4E"},
-    {"key":"293视频","name":"🐓293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://gitea.com/mt123456888/tv/src/branch/master/jar/qj293.jar;MD5;2FA165C9AA72ADA6AB74A3DEDB58FF6B"},
+    {"key":"293视频","name":"🐓293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://gitea.com/mt123456888/tv/raw/branch/master/jar/qj293.jar;MD5;2FA165C9AA72ADA6AB74A3DEDB58FF6B"},
     {
 	"key": "Lezhu_spider",
 	"name": "🐞乐猪影视",
