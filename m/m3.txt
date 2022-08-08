@@ -186,6 +186,9 @@
 
 {"key":"csp_biubiu_鸭奈飞","name":"🎸鸭奈飞(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/shadowchiu/sc/raw/branch/main/TVBox/MaooXB2/鸭奈飞.json"},
 {"key":"csp_xpath_yanetflix","name":"🦋鸭奈飞(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/yanet.json"},
+{"key":"csp_xpath_哔嘀影视","name":"哔嘀影视(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/breadmyth/tv/raw/branch/main/MeowXP/哔嘀影视(xpmf).json"},
+{"key":"csp_xpath_奈飞中文","name":"奈飞中文(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/breadmyth/tv/raw/branch/main/MeowXP/奈飞中文(xpmf).json"},
+{"key":"csp_xpath_极品影视","name":"极品影视(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/breadmyth/tv/raw/branch/main/MeowXP/极品影视(xpmf).json"},
 
     {
       "key": "AliPS",
