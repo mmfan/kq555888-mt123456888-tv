@@ -260,9 +260,9 @@
       }   
     },
     {
-      "name": "太空",
+      "name": "未知",
       "type": 1,
-      "url": "http://124.222.68.182/jiexi/4kJX.php/?url=",
+      "url": "http://106.52.218.221:88/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -272,18 +272,16 @@
           "奇艺",
           "youku",
           "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
           "mgtv",
           "芒果",
-          "CL4K",
-          "renrenmi",
-          "ltnb",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
           "bilibili",
-          "1905",
-          "xigua"
+          "哔哩哔哩",
+          "哔哩"
         ]
       }
     },
