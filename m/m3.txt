@@ -183,8 +183,11 @@
 {"key":"csp_appysv2_段友影视","name":"段友影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"},
 {"key":"csp_appysv2_段友影视3","name":"段友影视3","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://js.66app.me/api.php/app/"},
 {"key":"csp_appysv2_521看剧","name":"521看剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://521kanju.com/api.php/v1.vod"},
-{"key":"csp_xpath_哔嘀影视","name":"哔嘀影视(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/breadmyth/tv/raw/branch/main/MeowXP/哔嘀影视(xpmf).json"},
-{"key":"csp_xpath_奈飞中文","name":"奈飞中文(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/breadmyth/tv/raw/branch/main/MeowXP/奈飞中文(xpmf).json"},
+{"key":"csp_biubiu_乐猪影视","name":"🐷乐猪影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/shadowchiu/sc/raw/branch/main/TVBox/MaooXB/乐猪影视.json"},
+{"key":"csp_biubiu_鸭奈飞","name":"🎸鸭奈飞(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/shadowchiu/sc/raw/branch/main/TVBox/MaooXB2/鸭奈飞.json"},
+{"key":"csp_xpath_yanetflix","name":"🦋鸭奈飞(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/shadowchiu/sc/raw/branch/main/TVBox/MaooXP/yanet.json"},
+{"key":"csp_XPath_bidiys","name":"📮哔嘀影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/shadowchiu/sc/raw/branch/main/TVBox/MaooXP/bidiys2.json"},
+{"key":"csp_xpath_lezhutv","name":"🐷乐猪TV(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/shadowchiu/sc/raw/branch/main/TVBox/MaooXP/lezhutv.json"},
     {
       "key": "AliPS",
       "name": "盘搜",
