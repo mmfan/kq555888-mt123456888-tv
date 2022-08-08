@@ -1,0 +1,37 @@
+ {
+      "name": "parwix2",
+      "type": 0,
+      "url": "https://jx.bozrc.com:4433/player/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ]
+      }
+    },
+    {"name": "解析5","type": 0,"url": "https://bd.jx.cn/?url="},
+    {
+      "name": "解析1",
+      "type": 1,
+      "url": "http://27.124.4.42:4567/?url="
+    },
+    {"name":"油果","type":1,"url":"http://json.youguo520.top/fufeng/?url=","ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
+    {"name":"LTRX","type":1,"url":"https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url=","ext":{"flag":["rx"]}},
+    {"name":"线路NX","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="},
+    {"name": "虾米","type": 0,"url": "https://jx.xmflv.com/?url="},
+{"name": "BL","type": 0,"url": "https://vip.bljiex.com/?v="},
