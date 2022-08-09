@@ -180,7 +180,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    "key":"csp_Tkys","name":"💖Tkys(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Tkys","name":"💖Tkys(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "9E03","name": "9️⃣9E03","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"},
     {"key": "csp_Kmys","name": "😻酷猫影视(SP)","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "csp_xpath_bdys" ,"name":"哔嘀磁链"  ,"type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,
