@@ -342,7 +342,7 @@
     {"name":"人人","type":1,"url":"https://svip.renrenmi.cc:2222/api/?key=ogGC18CjsACNo60r3E&url="},
     {"name":"293①","type":1,"url":"http://47.98.234.2:7768/api.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
     {"name":"720kp","type":1,"url":"https://jx.720kp.cn/appjson/app-gj_json.php?url="},
-    {"name":"优众rx","type":1,"url":"https://jisu.rongxingvr.top/api/?key=JGM0Kc1Sz0xCJnRMcY&url="},
+    {"name":"优众rx","type":0,"url":"https://jisu.rongxingvr.top/api/?key=JGM0Kc1Sz0xCJnRMcY&url="},
     {
       "name": "瓜皮解析",
       "type": 1,
