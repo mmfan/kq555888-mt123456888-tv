@@ -183,7 +183,16 @@
 {"key":"csp_appysv2_苍蓝影视","name":"苍蓝影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vip.ruifenglb.com:4433/api.php/app/"},
 {"key":"csp_appysv2_零刻影院","name":"零刻影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ys.ling00.cn/api.php/v1.vod"},
 {"key":"csp_appysv2_521看剧","name":"521看剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://521kanju.com/api.php/v1.vod"},
-{"key":"csp_biubiu_鸭奈飞","name":"🎸鸭奈飞(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/shadowchiu/sc/raw/branch/main/TVBox/MaooXB2/鸭奈飞.json"},
+{"key":"csp_appysv2_百淘影视","name":"百淘影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.58g8.com/lvdou_api.php/v1.vod"},
+{"key":"csp_appysv2_懒猫影视","name":"懒猫影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://lanmao.lanmaoymw.cn/api.php/v1.vod"},
+{"key":"csp_appysv2_麻瓜视频","name":"麻瓜视频","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://aliyun.k8aa.com/mogai_api.php/v1.vod"},
+{"key":"csp_appysv2_快云影音","name":"快云影音","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuaiyunyy.com/api.php/app/"},
+
+{"key":"csp_appysv2_迪迪影院","name":"迪迪影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dd88.icu:6080/xgapp.php/v2/"},
+
+{"key":"csp_appysv2_氢视频","name":"氢视频","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.h1080p.com/api.php/tv.vod"},
+
+
 
     {
       "key": "AliPS",
