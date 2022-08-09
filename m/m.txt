@@ -183,6 +183,8 @@
 {"key":"csp_appysv2_苍蓝影视","name":"苍蓝影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vip.ruifenglb.com:4433/api.php/app/"},
 {"key":"csp_appysv2_零刻影院","name":"零刻影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ys.ling00.cn/api.php/v1.vod"},
 {"key":"csp_appysv2_521看剧","name":"521看剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://521kanju.com/api.php/v1.vod"},
+{"key":"csp_biubiu_鸭奈飞","name":"🎸鸭奈飞(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/shadowchiu/sc/raw/branch/main/TVBox/MaooXB2/鸭奈飞.json"},
+
     {
       "key": "AliPS",
       "name": "盘搜",
