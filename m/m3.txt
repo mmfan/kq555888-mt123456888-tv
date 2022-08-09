@@ -129,7 +129,7 @@
       "filterable": 1
     },
     {"key": "Nfyun","name": "🚀Nf云","type": 3,"api": "csp_Nfyun","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"","jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/XC0808.jar;md5;B2CCC22142714422B8C7953448BA6C4E"},
-    {"key":"293视频","name":"🐓293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://gitea.com/mt123456888/tv/raw/branch/master/jar/qj293.jar;md5;2FA165C9AA72ADA6AB74A3DEDB58FF6B"},
+    {"key":"293视频","name":"🐓293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
     {
 	"key": "Lezhu_spider",
 	"name": "🐞乐猪影视",
@@ -723,6 +723,6 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-   "spider": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/XC0805.jar;md5;B2CCC22142714422B8C7953448BA6C4E"
+   "spider": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/custom_spider.jpg;md5;06ed1a662fc19e4ea22f60f02770f4b6"
   //"spider": "https://gitea.com/maoys/TV/raw/branch/main/qj.jar;md5;7eacb357cf27abce92ed497367221e5a"
 }
