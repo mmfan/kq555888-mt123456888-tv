@@ -138,7 +138,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {"key": "Nfyun","name": "🚀Nf云","type": 3,"api": "csp_Nfyun","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC0808w.jar;md5;D9220A5D58D4614B96974A812B96252B"},
+    {"key": "Nfyun","name": "🚀Nf云","type": 3,"api": "csp_Nfyun","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/XC0808w.jar;md5;D9220A5D58D4614B96974A812B96252B"},
     {
 		"key": "293视频",
 		"name": "🐞293视频",
