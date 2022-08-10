@@ -138,8 +138,8 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {"key": "Nfyun","name": "🚀Nf云","type": 3,"api": "csp_Nfyun","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"","jar": "https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC0808w.jar;md5;D9220A5D58D4614B96974A812B96252B"},
-    {"key":"293视频","name":"🐓293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/qj0809.jar;md5;06ed1a662fc19e4ea22f60f02770f4b6"},
+    {"key": "Nfyun","name": "🚀Nf云","type": 3,"api": "csp_Nfyun","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC0808w.jar;md5;D9220A5D58D4614B96974A812B96252B"},
+    {"key":"293视频","name":"🐓293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/qj0809.jar;md5;06ed1a662fc19e4ea22f60f02770f4b6"},
     {"key": "小熊","name": "🐞小熊TV","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/ts.jar;md5;8619BDDE9B8672D065BDABC2D3D10A64"},
 {"key": "Auete","name": "🐞Auete","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/ts.jar;md5;8619BDDE9B8672D065BDABC2D3D10A64"},
     {
