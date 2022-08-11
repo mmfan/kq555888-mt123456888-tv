@@ -138,7 +138,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {"key": "Nfyun","name": "🚀Nf云","type": 3,"api": "csp_Nfyun","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"","jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/XC0808.jar;md5;3CC434AD5B5345B2F224D6EBBA0FA7BD"},
+    {"key": "Nfyun","name": "🚀Nf云","type": 3,"api": "csp_Nfyun","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"","jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/juhuang.jar;md5;076E2157530714A37606E1599C01A19A"},
     {"key":"293视频","name":"🐓293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/custom_spider.jpg;md5;06ed1a662fc19e4ea22f60f02770f4b6"},
     {"key": "小熊","name": "🐞小熊TV","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/ts.jar;md5;8619BDDE9B8672D065BDABC2D3D10A64"},
 {"key": "Auete","name": "🐞Auete","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/ts.jar;md5;8619BDDE9B8672D065BDABC2D3D10A64"},
