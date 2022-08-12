@@ -204,6 +204,7 @@
 {"key":"西柚影视","name":"西柚影视(优)","type":1,"api":"http://43.135.75.180:9999/api.php/provide/vod/","searchable":1,"quickSearch":1},
 //{"key":"csp_xpath_dingzidy","name":"钉子电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/wlcmc1972/test/raw/branch/main/XP/dingzidy.json"},
 {"key":"csp_xpath_dym8","name":"电影迷(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/wlcmc1972/test/raw/branch/main/XP/dym8.json"},
+{"key":"csp_biubiu_牛马TV","name":"牛马TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/wlcmc1972/test/raw/branch/main/xb/牛马TV.json"},
 
     {
       "key": "AliPS",
