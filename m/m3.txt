@@ -471,7 +471,7 @@
   ],
   "flags": [
     "youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","renrenmi","duoduozy",
-"bilibili","RongXingVR","RongXing","rx","LT","ltnb","wuduyun","wuduzy","xfy","muxm3u8","canglan","m1905","xueren","优酷","爱奇艺","腾讯","腾讯视频","乐视视频","乐视","土豆","芒果","芒果TV","芒果tv","哔哩哔哩",
+"bilibili","RongXingVR","RongXing","rx","LT","ltnb","wuduyun","wuduzy","xfy","muxm3u8","canglan","m1905","xueren","xigua","优酷","爱奇艺","腾讯","腾讯视频","乐视视频","乐视","土豆","芒果","芒果TV","芒果tv","哔哩哔哩",
 "哔哩","zy1080","4k蓝光","内部蓝光" ],
   "ijk": [
     {
