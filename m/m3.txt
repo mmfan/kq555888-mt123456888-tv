@@ -511,7 +511,7 @@
           "xigua"   ]
       }
       },
-{"name": "虾米","type": 0,"url": "https://jx.xmflv.com/?url=",
+      {"name": "虾米","type": 0,"url": "https://jx.xmflv.com/?url=",
 "ext": {
         "flag": [
           "qq",
@@ -535,7 +535,31 @@
           "xigua"   ]
       }
       },
-{"name": "BL","type": 0,"url": "https://vip.bljiex.com/?v=",
+{"name": "虾米2","type": 0,"url": "https://dm.xmflv.com:4433/?url=",
+"ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "CL4K",
+          "renrenmi",
+          "ltnb",
+          "bilibili",
+          "1905",
+          "xigua"   ]
+      }
+      },
+{"name": "BL","type": 0,"url": "https://svip.bljiex.cc/?v=",
 "ext": {
         "flag": [
           "qq",
