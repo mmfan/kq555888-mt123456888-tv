@@ -508,7 +508,9 @@
           "ltnb",
           "bilibili",
           "1905",
-          "xigua"},
+          "xigua"   ]
+      }
+      },
 {"name": "虾米","type": 0,"url": "https://jx.xmflv.com/?url=",
 "ext": {
         "flag": [
@@ -530,7 +532,9 @@
           "ltnb",
           "bilibili",
           "1905",
-          "xigua"},
+          "xigua"   ]
+      }
+      },
 {"name": "BL","type": 0,"url": "https://vip.bljiex.com/?v=",
 "ext": {
         "flag": [
@@ -552,7 +556,9 @@
           "ltnb",
           "bilibili",
           "1905",
-          "xigua"}
+          "xigua"   ]
+      }
+      }
   ],
   "flags": [
     "youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","renrenmi","duoduozy",
