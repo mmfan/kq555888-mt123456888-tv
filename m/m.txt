@@ -207,7 +207,7 @@
 "filterable":1,"ext":"https://gitea.com/gaigai/gougou/raw/branch/main/biditd.json"},
 {
       "key": "csp_xpath_音范丝磁力",
-      "name": "🐛音范丝磁力(XP)",
+      "name": "🐞音范丝磁力(XP)",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
