@@ -240,7 +240,6 @@
 {"key":"csp_xbb_韩剧在线","name":"🍀韩剧在线","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXB/韩剧在线.json"},
 {"key":"csp_xbb_akmeiju","name":"🍀爱看美剧","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXB/akmeiju.json"},
 {"key":"csp_app_看剧吧","name":"🐌看剧吧","type":3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.ishen520.com/api.php/v1.vod"},
-{"key":"csp_app_看美剧","name":"🐌看美剧","type":3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.uumjw.com/api.php/v1.vod"},
 
 {"key": "csp_biubiu_yekong","name": "夜空高清(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://gitea.com/mt123456888/tv/raw/branch/master/xb/yklg.json"},
 
