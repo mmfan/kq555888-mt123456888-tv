@@ -315,25 +315,7 @@
 		"type": 1,
 		"url": "https://play.fuqizhishi.com/mov/API.php?appkey=QQ172598364&url="
     },
-    {
-      "name": "江湖解析",
-      "type": 1,
-      "url": "http://103.40.240.46/jh/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "qiyi",
-          "mgtv",
-          "youku",
-          "letv",
-          "sohu",
-          "xigua",
-          "1905",
-          "优播线路",
-          "腾播线路"
-        ]
-      }   
-    },
+    
     {
       "name": "未知",
       "type": 1,
