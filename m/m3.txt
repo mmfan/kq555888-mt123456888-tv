@@ -253,7 +253,6 @@
   "filterable":1,
   "ext": "3a49cf29cf20410997247c6eb4509be9"
   },
-  {"key":"csp_Alips","name":"🐱喵搜(搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
 
 {
   "key":"FindZY",
