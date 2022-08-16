@@ -28,6 +28,7 @@
       "filterable": 0
     },
      {"key": "293视频","name":"2️⃣293视频","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC0815w.jar;md5;D22ECABC487AE22B2B05A8DB11C1107D"},
+     {"key":"csp_Tkys","name":"🥇天空(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "追剧喵",
       "name": "🐞追剧喵",
