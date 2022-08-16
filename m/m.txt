@@ -28,6 +28,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
+    {"key": "293视频","name":"2️⃣293视频","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1,https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC0815w.jar},
     {
       "key": "追剧喵",
       "name": "🐞追剧喵",
