@@ -27,9 +27,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC0817w.jar;md5;5D578B37A92E7C6AD0987EBC57E83E60"
+      "jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/XC0817w.jar;md5;5D578B37A92E7C6AD0987EBC57E83E60"
     },
-    {"key": "293视频","name":"2️⃣293视频","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC0817w.jar;md5;5D578B37A92E7C6AD0987EBC57E83E60"},
+    {"key": "293视频","name":"2️⃣293视频","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/XC0817w.jar;md5;5D578B37A92E7C6AD0987EBC57E83E60"},
     {
       "key": "追剧喵",
       "name": "🐞追剧喵",
@@ -131,7 +131,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU5MjQwNzQzLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.xB1ZZAaYwrkyLF8bD1KyQKC2tmW0myIZgUQvTVQWELk",
-      "https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC0817w.jar;md5;5D578B37A92E7C6AD0987EBC57E83E60"
+      "https://gitea.com/mt123456888/tv/raw/branch/master/jar/XC0817w.jar;md5;5D578B37A92E7C6AD0987EBC57E83E60"
     },
     {
       "key": "csp_Wmkk",
