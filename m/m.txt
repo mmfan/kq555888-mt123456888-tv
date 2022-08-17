@@ -230,6 +230,7 @@
 {"key":"csp_biubiu_landouxb","name":"🥒蓝豆TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/yuegu09/wailian/raw/branch/main/XB/蓝豆TV.json"},
 {"key": "csp_biubiu_yekong","name": "夜空高清(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://gitea.com/mt123456888/tv/raw/branch/master/xb/yklg.json"},
 
+{"key": "csp_Yisou","name":"🐞易搜盘","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"c679866eae6848dd966404ce44ba9042","jar":"https://gitea.com/ananfb/fbyh/raw/branch/main/aliwaizhi.jar;md5;50873684e56831f13e6d119ec2862c4a"},
 {
   "key":"AliPS",
   "name":"😻盘搜",
@@ -300,6 +301,41 @@
 		"url": "https://play.fuqizhishi.com/mov/API.php?appkey=QQ172598364&url="
     },
     {"name": "新江湖","type": 1,"url": "http://150.230.216.174/tvjx.php?url=","ext": {"flag": ["qq", "qiyi", "mgtv", "youku", "letv", "sohu", "xigua", "1905", "优播线路", "腾播线路"],"header": {"User-Agent": "Dart/2.14 (dart:io)"}}},
+    {
+      "name": "搬运",
+      "type": 1,
+      "url": "https://jx.bynote.top/API.php?url=",
+      "ext": {
+        "flag": [
+          "qiyi",
+          "iqiyi",
+          "奇艺",
+          "爱奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
+          "mgtv",
+          "芒果",
+          "xigua",
+          "西瓜",
+          "sohu",
+          "搜狐",
+          "cntv",
+          "cctv",
+          "央视",
+          "1905",
+          "m1905"
+        ]
+      }
+    },
    {
 		"name": "爱豆",
 		"type": 1,
