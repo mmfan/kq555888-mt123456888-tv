@@ -247,7 +247,7 @@
 
 {"key": "csp_biubiu_yekong","name": "夜空高清(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://gitea.com/mt123456888/tv/raw/branch/master/xb/yklg.json"},
 
-{"key": "csp_Yisou","name":"🐞易搜盘","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"c679866eae6848dd966404ce44ba9042","jar":"https://gitea.com/ananfb/fbyh/raw/branch/main/aliwaizhi.jar;md5;50873684e56831f13e6d119ec2862c4a"},
+{"key": "csp_Yisou","name":"🐞易搜盘","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"c679866eae6848dd966404ce44ba9042"},
 {
   "key":"AliPS",
   "name":"😻盘搜",
