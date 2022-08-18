@@ -205,7 +205,9 @@
 {"key":"csp_xpath_cilisou","name":"磁力搜(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/yuegu09/wailian/raw/branch/main/XP/磁力搜.json"},
     
 {"key": "csp_Bttoo"      ,"name":"2BT影视" ,"type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch":1,"filterable":1},
-{"key":"空中课堂","name":"🐞空中课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/mt123456888/tv/raw/branch/master/m/%E7%A9%BA%E4%B8%AD%E8%AF%BE%E5%A0%821.json","jar": "https://gitea.com/ljmaizhyg112/jar/raw/branch/main/qj0809.zip"},
+
+{"key":"空中课堂","name":"🐞空中课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/ljmaizhyg112/jar/raw/branch/main/%E7%A9%BA%E4%B8%AD%E8%AF%BE%E5%A0%82.json"},
+
 {"key":"csp_AppYsV2","name": "🍹优众影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://121.205.88.178:8090/xgapp.php/v2/"},
 {"key":"TV采集","name":"📺TV采集","type":1,"api":"http://tvcaiji.pankk.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
  {"key": "9E03","name": "9️⃣9E03","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://vod.9e03.com/lvdou_api.php/v1.vod","jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/XC0808.jar;md5;3CC434AD5B5345B2F224D6EBBA0FA7BD"},
