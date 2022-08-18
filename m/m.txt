@@ -29,7 +29,7 @@
       "filterable": 0,
       "jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/XC0817w.jar;md5;5D578B37A92E7C6AD0987EBC57E83E60"
     },
-    //{"key": "293视频","name":"2️⃣293视频","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/XC0818.jar;md5;E055B9187B24386D52D93CF23EE8BA76"},
+    {"key": "293视频","name":"2️⃣293视频","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/XC0818.jar;md5;E055B9187B24386D52D93CF23EE8BA76"},
     {
       "key": "追剧喵",
       "name": "🐞追剧喵",
@@ -176,7 +176,8 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "3a49cf29cf20410997247c6eb4509be9"
+  "ext": "3a49cf29cf20410997247c6eb4509be9",
+   "jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/top95.jar;md5;b63e45664754f6ef2536428b857901c6"
   },
 
     {"key": "csp_Bttoo"      ,"name":"2BT影视" ,"type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch":1,"filterable":1},
@@ -230,7 +231,8 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext": "3a49cf29cf20410997247c6eb4509be9"
+  "ext": "3a49cf29cf20410997247c6eb4509be9",
+   "jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/top95.jar;md5;b63e45664754f6ef2536428b857901c6"
   },
 
 {
@@ -240,7 +242,8 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext": "3a49cf29cf20410997247c6eb4509be9"
+  "ext": "3a49cf29cf20410997247c6eb4509be9",
+   "jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/top95.jar;md5;b63e45664754f6ef2536428b857901c6"
   },
    
 {
@@ -282,16 +285,7 @@
       "type": 2,
       "url": "Sequence"
     },
-    {
-      "name": "fuqi",
-      "type": 1,
-      "url": "https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="
-    },
-     {
-		"name": "fuqi2",
-		"type": 1,
-		"url": "https://play.fuqizhishi.com/mov/API.php?appkey=QQ172598364&url="
-    },
+    
     {"name": "新江湖","type": 1,"url": "http://150.230.216.174/tvjx.php?url=","ext": {"flag": ["qq", "qiyi", "mgtv", "youku", "letv", "sohu", "xigua", "1905", "优播线路", "腾播线路"],"header": {"User-Agent": "Dart/2.14 (dart:io)"}}},
     {
       "name": "搬运",
@@ -383,14 +377,7 @@
         ]
       }
     },
-    {
-		"name": "左岸",
-		"type": 1,
-		"url": "http://110.42.2.115:880/analysis/json/?uid=2288&my=flmoqszABEIJNQT017&url=",
-		"ext": {
-			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "CL4K", "renrenmi", "ltnb", "bilibili", "1905", "xigua"]
-		}
-	},
+    
   {"name":"油果","type":1,"url":"http://json.youguo520.top/fufeng/?url=","ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
     {"name":"LTRX","type":1,"url":"https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url=","ext":{"flag":["rx"]}},
     {"name":"线路NX","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="},
@@ -441,7 +428,17 @@
         ]
       }
     },
-   
+
+  {
+    "name":"yemu",
+    "type":0,
+    "url":"https://www.yemu.xyz/?url="
+    },
+    {
+    "name":"okjx",
+    "type":0,
+    "url":"https://okjx.cc/?url="
+    },  
 {"name": "诺讯","type": 0,"url": "https://www.nxflv.com/?url="},
 {"name": "虾米2","type": 0,"url": "https://dm.xmflv.com:4433/?url="},
 {"name": "BL","type": 0,"url": "https://vip.bljiex.com/?v="}
