@@ -9,8 +9,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "1f373a68733e4dafa5fa28dca9826b35",
-   "jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/top95.jar;md5;b63e45664754f6ef2536428b857901c6"
+            "ext": "1f373a68733e4dafa5fa28dca9826b35"
         },
         {
             "key": "AliPS",
@@ -20,8 +19,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "1f373a68733e4dafa5fa28dca9826b35",
-   "jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/top95.jar;md5;b63e45664754f6ef2536428b857901c6"
+            "ext": "1f373a68733e4dafa5fa28dca9826b35"
         },
         {
             "key": "FindZY",
@@ -31,8 +29,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "1f373a68733e4dafa5fa28dca9826b35",
-   "jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/top95.jar;md5;b63e45664754f6ef2536428b857901c6"
+            "ext": "1f373a68733e4dafa5fa28dca9826b35"
         },
 
     {
