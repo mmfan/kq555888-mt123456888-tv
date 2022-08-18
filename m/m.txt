@@ -29,7 +29,7 @@
       "filterable": 0,
       "jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/XC0817w.jar;md5;5D578B37A92E7C6AD0987EBC57E83E60"
     },
-    {"key": "293视频","name":"2️⃣293视频","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/XC0818.jar;md5;E055B9187B24386D52D93CF23EE8BA76"},
+    //{"key": "293视频","name":"2️⃣293视频","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/XC0818.jar;md5;E055B9187B24386D52D93CF23EE8BA76"},
     {
       "key": "追剧喵",
       "name": "🐞追剧喵",
