@@ -174,7 +174,9 @@
 
     {"key": "csp_Bttoo"      ,"name":"2BT影视" ,"type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch":1,"filterable":1},
     //{"key":"csp_xpath_bttwoo","name":"两个BT(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/mt123456888/tv/raw/branch/master/xp/bttwoo.json"},
-{"key":"空中课堂","name":"🐞空中课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/ltxxjs/box2022-1/main/sub/bibi/空中课堂.json"},
+
+{"key":"空中课堂","name":"🐞空中课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/mt123456888/tv/raw/branch/master/m/%E7%A9%BA%E4%B8%AD%E8%AF%BE%E5%A0%821.json"},
+
 {"key":"csp_AppYsV2","name": "🍹优众影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://121.205.88.178:8090/xgapp.php/v2/"},
 
 {"key": "9E03","name": "9️⃣9E03","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://vod.9e03.com/lvdou_api.php/v1.vod","jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/XC0808.jar;md5;3CC434AD5B5345B2F224D6EBBA0FA7BD"},
