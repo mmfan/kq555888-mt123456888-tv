@@ -9,7 +9,8 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {"key":"csp_biubiu_电影港磁力xb","name":"🥒电影港磁力","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/yuegu09/wailian/raw/branch/main/XBCL/电影港磁力.json"},
+    {"key":"csp_biubiu_电影港磁力xb","name":"🥒电影港磁力","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/yuegu09/wailian/raw/branch/main/XBCL/电影港磁力.json",
+      "jar":"https://gitea.com/yuegu09/wailian/raw/branch/main/jar/XYQBiu.jar"},
     {
       "key": "csp_CZSPP",
       "name": "🐞厂长资源",
@@ -204,29 +205,7 @@
       "filterable": 1,
       "ext": "https://ftyyy.tk/MeowXP/yinfans.json"
     },
-     {
-      "key": "555电影",
-      "name": "555电影(XB)",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gitea.com/yuegu09/wailian/raw/branch/main/XYQ/555影视.json",
-      "jar":"https://gitea.com/yuegu09/wailian/raw/branch/main/jar/XYQBiu.jar"
-    },
-        {
-      "key": "电影港磁力",
-      "name": "电影港磁力",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gitea.com/yuegu09/wailian/raw/branch/main/XYQ/电影港磁力.json",
-      "jar":"https://gitea.com/yuegu09/wailian/raw/branch/main/jar/XYQBiu.jar"
-    },
-
+     
     
 {"key": "csp_Bttoo"      ,"name":"2BT影视" ,"type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch":1,"filterable":1},
 
