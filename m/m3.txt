@@ -156,6 +156,16 @@
       "ext": "https://gitea.com/yuegu09/wailian/raw/branch/main/XYQ/555影视.json",
       "jar":"https://gitea.com/yuegu09/wailian/raw/branch/main/jar/XYQBiu.jar"
     },
+    {
+      "key": "555电影",
+      "name": "555电影(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gitea.com/maoys/Box/raw/branch/master/MaooXB/555dy.json"
+    },
     
     {
       "key": "剧白白",
