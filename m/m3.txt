@@ -203,7 +203,7 @@
       "filterable": 1,
       "ext": "https://ftyyy.tk/MeowXP/yinfans.json"
     },
-{"key":"csp_xpath_cilisou","name":"磁力搜(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/yuegu09/wailian/raw/branch/main/XP/磁力搜.json"},
+
     
 {"key": "csp_Bttoo"      ,"name":"2BT影视" ,"type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch":1,"filterable":1},
 
@@ -246,6 +246,13 @@
 
 {"key": "csp_biubiu_yekong","name": "夜空高清(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://gitea.com/mt123456888/tv/raw/branch/master/xb/yklg.json"},
 
+{"key":"csp_xpath_nbys","name":"🏝泥巴(搭飞机)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"小宝影院","name":"👶小宝影院(搭飞机)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"If101","name":"1️⃣If101(搭飞机)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
+
+
+{"key":"csp_Alips","name":"🐱喵搜(搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
+{"key":"csp_xpath_cilisou","name":"磁力搜(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/yuegu09/wailian/raw/branch/main/XP/磁力搜.json"},
 {"key": "csp_Yisou","name":"🐞易搜盘","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"c679866eae6848dd966404ce44ba9042","jar":"https://gitea.com/ananfb/fbyh/raw/branch/main/aliwaizhi.jar;md5;50873684e56831f13e6d119ec2862c4a"},
 {
   "key":"AliPS",
