@@ -189,6 +189,7 @@
 {"key":"csp_xpath_mp4dycl","name":"MP4电影(XPCL)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/yuegu09/wailian/raw/branch/main/mp4dycl.json"},
 {"key":"csp_xpath_mp4tdcl","name":"mp4(XPCL)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/yuegu09/wailian/raw/branch/main/mp4dycl.json"},
 
+{"key":"csp_biubiu_80S磁力xb","name":"🥒80S磁力","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/yuegu09/wailian/raw/branch/main/XBCL/80S磁力.json","jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/CLQXB.jar;md5;381F3DE719515C74821274EB2D12877C"},
 {"key":"csp_xpath_Grab4K","name":"Grab4K(磁力)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/yuegu09/wailian/raw/branch/main/XP/Grab4K_XPCL.json"},
 {"key": "csp_xpath_bdys" ,"name":"哔嘀磁链"  ,"type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,
 "filterable":1,"ext":"https://gitea.com/gaigai/gougou/raw/branch/main/biditd.json"},
