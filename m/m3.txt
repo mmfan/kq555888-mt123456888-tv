@@ -154,7 +154,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/maoys/Box/raw/branch/master/MaooXB/555dy.json"
+      "ext": "https://gitea.com/yuegu09/wailian/raw/branch/main/XYQ/555影视.json"
     },
     
     {
@@ -310,7 +310,15 @@
       "type": 2,
       "url": "Sequence"
     },
-    {"name": "新江湖","type": 1,"url": "http://150.230.216.174/tvjx.php?url=","ext": {"flag": ["qq", "qiyi", "mgtv", "youku", "letv", "sohu", "xigua", "1905", "优播线路", "腾播线路"],"header": {"User-Agent": "Dart/2.14 (dart:io)"}}},
+    {"name": "解析2","type": 1,"url": "https://json.freejx.in/?url=",
+	"ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]}},
+  {"name":"解析3","type":0,"url":"http://122.114.157.13:2089/rx.php?url="},
+{"name": "解析4","type": 0,"url": "https://bd.jx.cn/?url="},
+{"name": "解析X","type": 1,"url": "http://newjiexi.gotka.top/keyu3.php?url=",
+"ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
+"header": {"User-Agent": "okhttp/4.1.0"}}},
+{"name":"解析6","type":1,"url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="}
+],
      {
       "name": "搬运",
       "type": 1,
