@@ -154,7 +154,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/yuegu09/wailian/raw/branch/main/XYQ/555影视.json"
+      "ext": "https://gitea.com/yuegu09/wailian/raw/branch/main/XYQ/555影视.json",
+      "jar": "https://gitea.com/yuegu09/wailian/raw/branch/main/jar/CLQXB.jar;md5;381F3DE719515C74821274EB2D12877C"
     },
     
     {
