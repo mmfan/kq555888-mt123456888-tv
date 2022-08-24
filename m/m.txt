@@ -200,6 +200,10 @@
       "filterable": 1,
       "ext": "https://ftyyy.tk/MeowXP/yinfans.json"
     },
+
+    {"key":"csp_QXBiubiu_蚂蚁4K","name":"蚂蚁4K(QXB)️","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/mt123456888/tv/raw/branch/master/XYQB/%E8%9A%82%E8%9A%814K.json","jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/0822w.jar;md5;1562E75C678EBD35BA4908F1C431309B"},
+{"key":"csp_XYQBiu_好恐怖磁力","name":"好恐怖磁力(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/mt123456888/tv/raw/branch/master/cl/%E5%A5%BD%E6%81%90%E6%80%96%E7%A3%81%E5%8A%9B.json","jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/0822w.jar;md5;1562E75C678EBD35BA4908F1C431309B"},
+
 //{"key":"csp_xpath_cilisou","name":"磁力搜(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/yuegu09/wailian/raw/branch/main/XP/磁力搜.json"},
 
 {"key":"csp_appysv2_特狗影视","name":"特狗影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tegouys.com/xgapp.php/v2/"},
