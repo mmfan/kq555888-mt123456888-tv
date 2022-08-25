@@ -205,8 +205,8 @@
       "ext": "https://ftyyy.tk/MeowXP/yinfans.json"
     },
 
-    {"key":"csp_QXBiubiu_蚂蚁4K","name":"蚂蚁4K(QXB)️","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/mt123456888/tv/raw/branch/master/XYQB/%E8%9A%82%E8%9A%814K.json","jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/0822w.jar;md5;1562E75C678EBD35BA4908F1C431309B"},
-{"key":"csp_XYQBiu_好恐怖磁力","name":"好恐怖磁力(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/mt123456888/tv/raw/branch/master/cl/%E5%A5%BD%E6%81%90%E6%80%96%E7%A3%81%E5%8A%9B.json","jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/0822w.jar;md5;1562E75C678EBD35BA4908F1C431309B"},
+   // {"key":"csp_QXBiubiu_蚂蚁4K","name":"蚂蚁4K(QXB)️","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/mt123456888/tv/raw/branch/master/XYQB/%E8%9A%82%E8%9A%814K.json","jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/0822w.jar;md5;1562E75C678EBD35BA4908F1C431309B"},
+// {"key":"csp_XYQBiu_好恐怖磁力","name":"好恐怖磁力(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/mt123456888/tv/raw/branch/master/cl/%E5%A5%BD%E6%81%90%E6%80%96%E7%A3%81%E5%8A%9B.json","jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/0822w.jar;md5;1562E75C678EBD35BA4908F1C431309B"},
 
 //{"key":"csp_xpath_cilisou","name":"磁力搜(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/yuegu09/wailian/raw/branch/main/XP/磁力搜.json"},
 
@@ -217,7 +217,8 @@
 {"key":"csp_xbb_美剧虫","name":"🍀美剧虫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXB/美剧虫.json"},
 {"key":"csp_xp_meiju56","name":"💢美剧网","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/meiju562.json"},
 {"key":"csp_app_看剧吧","name":"🐌看剧吧","type":3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.ishen520.com/api.php/v1.vod"},
-{"key":"csp_biubiu_landouxb","name":"🥒蓝豆TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/yuegu09/wailian/raw/branch/main/XB/蓝豆TV.json"},
+{"key":"csp_biubiu_landouxb","name":"🥒蓝豆TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/yuegu09/wailian/raw/branch/main/XB/蓝豆TV.json","jar":"https://gitea.com/mt123456888/tv/raw/branch/master/jar/CLQXB.jar;md5;381F3DE719515C74821274EB2D12877C"},
+{"key":"csp_biubiu_kbzxb","name":"🥒扛把子","type":3,"api":"csp_QXBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/yuegu09/wailian/raw/branch/main/XB/kbzxb.json","jar":"https://gitea.com/mt123456888/tv/raw/branch/master/jar/CLQXB.jar;md5;381F3DE719515C74821274EB2D12877C"},
 {"key": "csp_biubiu_yekong","name": "夜空高清(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://gitea.com/mt123456888/tv/raw/branch/master/xb/yklg.json"},
 
 {"key": "csp_Yisou","name":"🐞易搜盘","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"c679866eae6848dd966404ce44ba9042","jar":"https://gitea.com/ananfb/fbyh/raw/branch/main/aliwaizhi.jar;md5;50873684e56831f13e6d119ec2862c4a"},
