@@ -250,7 +250,7 @@
 //{"key":"csp_xbb_akmeiju","name":"🍀爱看美剧","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXB/akmeiju.json"},
 {"key":"csp_app_看剧吧","name":"🐌看剧吧","type":3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.ishen520.com/api.php/v1.vod"},
 {"key":"csp_biubiu_landouxb","name":"🥒蓝豆TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/yuegu09/wailian/raw/branch/main/XB/蓝豆TV.json"},
-{"key":"csp_biubiu_歪片星球","name":"💫歪片星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/mt123456888/tv/raw/branch/master/xb/歪片星球.json"},
+{"key":"csp_biubiu_歪片星球","name":"💫歪片星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitea.com/mt123456888/tv/raw/branch/master/xb/歪片星球.json","jar":"https://gitea.com/mt123456888/tv/raw/branch/master/jar/LK082202.jar;md5;C130118E3626CA0ED2A1A189319DE08D"},
 
 {"key": "csp_biubiu_yekong","name": "夜空高清(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://gitea.com/mt123456888/tv/raw/branch/master/xb/yklg.json"},
 
