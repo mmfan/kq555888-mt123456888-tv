@@ -44,7 +44,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "aa5a9e477c3a42468814f09daa7045df",
-      "jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/XC0823w.jar;md5;7DC752B1F04075EE50FE6A691E682356"
+      "jar": "https://raw.githubusercontent.com/zwm001/Jar/6cb2940a7af4b73b5842f59fe8eb704596935401/jar/custom_spider.jar.md5;md5;61bf20181aa29026c1c0f2d21bdc6f3f"
 },
     {
       "key": "追剧喵",
