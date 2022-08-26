@@ -36,6 +36,17 @@
      {"key": "Nfyun","name":"🚀Nf云","type": 3,"api": "csp_Nfyun","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"","jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/XC0818.jar;md5;E055B9187B24386D52D93CF23EE8BA76"},
     
     {
+      "key": "csp_YydsAli1",
+      "name": "YYDS阿里(爬虫)",
+      "type": 3,
+      "api": "csp_YydsAli1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "aa5a9e477c3a42468814f09daa7045df",
+      "jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/XC0823w.jar;md5;7DC752B1F04075EE50FE6A691E682356"
+},
+    {
       "key": "追剧喵",
       "name": "🐞追剧喵",
       "type": 3,
