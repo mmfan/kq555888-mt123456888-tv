@@ -31,7 +31,7 @@
 
      {"key": "293视频","name":"2️⃣293视频","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/XC0818.jar;md5;E055B9187B24386D52D93CF23EE8BA76"},
 
-     {"key": "Nfyun","name":"🚀Nf云","type": 3,"api": "csp_Nfyun","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"","jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/XC0818.jar;md5;E055B9187B24386D52D93CF23EE8BA76"},
+    // {"key": "Nfyun","name":"🚀Nf云","type": 3,"api": "csp_Nfyun","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"","jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/XC0818.jar;md5;E055B9187B24386D52D93CF23EE8BA76"},
     
     {
       "key": "追剧喵",
@@ -127,6 +127,8 @@
 {"key":"csp_AppYsV2","name": "🍹优众影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://121.205.88.178:8090/xgapp.php/v2/"},
 
  {"key": "9E03","name": "9️⃣9E03","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://vod.9e03.com/lvdou_api.php/v1.vod","jar": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/XC0808.jar;md5;3CC434AD5B5345B2F224D6EBBA0FA7BD"},
+
+ {"key":"csp_biubiu_歪片星球","name":"💫歪片星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/mt123456888/tv/raw/branch/master/xb/歪片星球.json"},
   {
       "key":"csp_appysv2_amhys",
       "name":"🌭爱麻花影视(SP)",
@@ -724,6 +726,6 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/XC0805.jar;md5;B2CCC22142714422B8C7953448BA6C4E"
+  "spider": "https://gitea.com/mt123456888/tv/raw/branch/master/jar/LK082202.jar;md5;C130118E3626CA0ED2A1A189319DE08D"
   //"spider": "https://gitea.com/maoys/TV/raw/branch/main/qj.jar;md5;7eacb357cf27abce92ed497367221e5a"
 }
